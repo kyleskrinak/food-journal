@@ -22,7 +22,7 @@ title: Food diary and recipes
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   From our kitchen and belly to your eyes
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/food-journal" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Kyle Skrinak

@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Food diary and recipes
-email: your-email@example.com
+title: Chez Screenack
+email: kyle.skrinak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   From our kitchen and belly to your eyes
 baseurl: "/food-journal" # the subpath of your site, e.g. /blog
@@ -78,6 +78,12 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:

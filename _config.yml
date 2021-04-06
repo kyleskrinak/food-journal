@@ -94,3 +94,11 @@ defaults:
     values:
       layout: post
       read_time: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/

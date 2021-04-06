@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Kielbasa and Cabbage Skillet
-image: 
-  path:
-  thumbnail:
+# image: 
+#   path: /assets/images/french-onion-salisbury-steak.jpg
+#   thumbnail: /assets/images/french-onion-salisbury-steak-thumb.jpg
 date: 2021-04-05 15:50 -0400
 ---
 

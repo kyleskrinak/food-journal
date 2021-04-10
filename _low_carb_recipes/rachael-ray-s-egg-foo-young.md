@@ -4,8 +4,8 @@ title: Rachael Ray's Egg Foo Young
 date: 2021-04-07 03:50 -0400
 tags: eggs
 image: 
-  path:  /assets/images/egg-foo-young.jpg
-  thumbnail:  /assets/images/egg-foo-young-thumb.jpg 
+  path:  /assets/images/low_carb_recipes/egg-foo-young.jpg
+  thumbnail:  /assets/images/low_carb_recipes/egg-foo-young-thumb.jpg 
   caption: "Photo by Screenack"
 ---
 

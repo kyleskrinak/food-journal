@@ -2,8 +2,8 @@
 layout: post
 title: French Onion Salisbury Steak
 image: 
-  path: /assets/images/french-onion-salisbury-steak.jpg
-  thumbnail: /assets/images/french-onion-salisbury-steak-thumb.jpg
+  path: /assets/images/low_carb_recipes/french-onion-salisbury-steak.jpg
+  thumbnail: /assets/images/low_carb_recipes/french-onion-salisbury-steak-thumb.jpg
 date: 2021-04-05 15:50 -0400
 ---
 

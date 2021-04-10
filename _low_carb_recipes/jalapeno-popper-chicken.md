@@ -2,8 +2,8 @@
 layout: post
 title: Jalapeño Popper Chicken Casserole
 image: 
-  path:  /assets/images/jalapeno-popper-chicken.jpg
-  thumbnail:  /assets/images/jalapeno-popper-chicken-thumb.jpg 
+  path:  /assets/images/low_carb_recipes/jalapeno-popper-chicken.jpg
+  thumbnail:  /assets/images/low_carb_recipes/jalapeno-popper-chicken-thumb.jpg 
 date: 2021-04-04 15:50 -0400
 categories: entree
 tags: chicken

@@ -81,7 +81,7 @@ exclude:
 
 # Collections
 collections:
-  recipes:
+  low_carb_recipes:
     output: true
     permalink: /:collection/:path/
 

@@ -11,3 +11,46 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+// Adds caption support
+@media print {
+  .intro-image {
+    .image-caption {
+      color: #000 !important;
+      background: #fff !important;
+      opacity: 1;
+
+      a {
+        color: #000 !important;
+      }
+    }
+  }
+}
+
+.intro-image {
+  .image-caption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 2px 5px;
+    color: #fff;
+    font-family: $base-font-family;
+    font-size: $min-font-size;
+    background: #000;
+    text-align: right;
+    z-index: 5;
+    opacity: 0.5;
+    border-radius: $border-radius 0 0 0;
+  
+    @include breakpoint($large) {
+      padding: 5px 10px;
+    }
+  
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+}
+

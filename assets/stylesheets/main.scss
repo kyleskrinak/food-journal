@@ -12,6 +12,13 @@
 
 @import "basically-basic";
 
+// remove garishly large images
+.layout--collection.journal {
+  .entry-image {
+    width: unset;
+  }
+}
+
 // Adds caption support
 @media print {
   .intro-image {

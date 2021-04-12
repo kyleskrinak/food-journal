@@ -18,7 +18,7 @@ t:
   email: "Email"
   subscribe: "Subscribe"
   read_more: "Read More"
-  posts: "Journal"
+  posts: "Recipes"
   page: "Page"
   of: "of"
   min_read: "min read"
@@ -36,4 +36,4 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - low_carb_recipes.md
+  - journal.md

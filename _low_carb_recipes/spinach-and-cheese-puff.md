@@ -3,7 +3,10 @@ layout: post
 title: Spinach and Cheese Puff
 date: 2021-04-06 06:22 -0400
 categories: side dish 
-tags: dairy, eggs, spinach
+tags: 
+  - dairy
+  - eggs
+  - spinach
 ---
 
 You can find the recipe instructions at [this link](https://www.marthastewart.com/339340/spinach-and-cheese-puff).

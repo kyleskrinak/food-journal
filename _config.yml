@@ -23,7 +23,7 @@ email: kyle.skrinak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   From our kitchen and belly to your eyes
 baseurl: "/food-journal" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kyleskrinak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Kyle Skrinak
   twitter: screenack
@@ -102,3 +102,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# SEO configuration options
+twitter:
+  username: screenack
+  card: summary

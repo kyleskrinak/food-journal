@@ -13,6 +13,7 @@ tags:
 
 This is Mrs. Screenack's own recipe. In fact, she just made it up tonight.
 
+* Cheddar cheese
 * Eggs
 * Aldi hot breakfast sausage
 * Asparagus 

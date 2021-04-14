@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kyle's Chaffles
+title: Screenack's Chaffles
 date: 2021-04-14 14:25 -0400 
 image: 
   path:  /assets/images/low_carb_recipes/chaffles.jpg
@@ -8,7 +8,7 @@ image:
   caption: "Photo by Screenack"
 ---
 
-By "Kyle's," I mean very simple and easy to make. I have an 8" double-sided waffle maker that's showing the wear from tens of thousands of wheat waffles I've made in the past. This makes 5 8" chaffles.
+By "Screenack's," I mean very simple and easy to make. I have an 8" double-sided waffle maker that's showing the wear from tens of thousands of wheat waffles I've made in the past. This makes 5 8" chaffles.
 
 ## Ingredients
 * 8 eggs

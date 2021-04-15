@@ -108,4 +108,4 @@ tag_archive:
 # SEO configuration options
 twitter:
   username: screenack
-  card: summary
+  card: summary_large_image

@@ -9,4 +9,5 @@ image:
   path:  /assets/images/low_carb_recipes/stir-fry-shrimp.jpg
   thumbnail:  /assets/images/low_carb_recipes/stir-fry-shrimp-thumb.jpg
   caption: "Photo by Screenack"
+comments: true 
 ---

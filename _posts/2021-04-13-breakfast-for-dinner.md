@@ -9,6 +9,7 @@ image:
 tags:
   - eggs
   - sausage
+comments: true 
 ---
 
 This is Mrs. Screenack's own recipe. In fact, she just made it up tonight.

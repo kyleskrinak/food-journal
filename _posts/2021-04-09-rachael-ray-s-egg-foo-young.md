@@ -8,6 +8,7 @@ image:
   path:  /assets/images/low_carb_recipes/egg-foo-young.jpg
   thumbnail:  /assets/images/low_carb_recipes/egg-foo-young-thumb.jpg 
   caption: "Photo by Screenack"
+comments: true 
 ---
 
 Recipe is available [here](https://www.rachaelray.com/recipes/egg-foo-young/).

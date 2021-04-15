@@ -8,6 +8,7 @@ image:
   caption: "Photo by Screenack"
 tags: 
   - chicken
+comments: true 
 ---
 
 The [recipe](https://www.foodnetwork.com/recipes/geoffrey-zakarian/roasted-split-chicken-with-dill-salsa-verde-10018659) is from the Food Network's Geoffrey Zakarian.

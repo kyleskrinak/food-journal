@@ -8,6 +8,7 @@ image:
   caption: "Photo by Screenack"
 tags:
   - pork
+comments: true
 ---
 
 This is a pork loin with a homemade Ranch dressing mix rub before going in the oven

@@ -109,3 +109,7 @@ tag_archive:
 twitter:
   username: screenack
   card: summary_large_image
+ 
+# disqus settings 
+disqus:
+    shortname: Recipes-Journal

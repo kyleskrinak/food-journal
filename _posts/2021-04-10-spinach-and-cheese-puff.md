@@ -7,6 +7,7 @@ tags:
   - dairy
   - eggs
   - spinach
+comments: true 
 ---
 
 You can find the recipe instructions at [this link](https://www.marthastewart.com/339340/spinach-and-cheese-puff).

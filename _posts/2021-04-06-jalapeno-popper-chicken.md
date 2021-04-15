@@ -8,6 +8,7 @@ date: 2021-04-04 15:50 -0400
 categories: entree
 tags: 
   - chicken
+comments: true 
 ---
 
 ## Time to make: 

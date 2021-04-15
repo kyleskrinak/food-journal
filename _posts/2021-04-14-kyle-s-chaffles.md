@@ -6,6 +6,7 @@ image:
   path:  /assets/images/low_carb_recipes/chaffles.jpg
   thumbnail:  /assets/images/low_carb_recipes/chaffles-thumb.jpg
   caption: "Photo by Screenack"
+comments: true
 ---
 
 By "Screenack's," I mean very simple and easy to make. I have an 8" double-sided waffle maker that's showing the wear from tens of thousands of wheat waffles I've made in the past. This makes 5 8" chaffles.

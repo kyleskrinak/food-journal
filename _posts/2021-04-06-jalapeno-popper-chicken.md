@@ -6,7 +6,8 @@ image:
   thumbnail:  /assets/images/low_carb_recipes/jalapeno-popper-chicken-thumb.jpg 
 date: 2021-04-04 15:50 -0400
 categories: entree
-tags: chicken
+tags: 
+  - chicken
 ---
 
 ## Time to make: 

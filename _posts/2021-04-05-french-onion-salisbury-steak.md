@@ -6,7 +6,7 @@ image:
   thumbnail: /assets/images/low_carb_recipes/french-onion-salisbury-steak-thumb.jpg
 date: 2021-04-05 15:50 -0400
 tags:
-  - Beef
+  - beef
 ---
 
 (From: Cuisine at home, April 2005, Issue 50, p. 32. Link to [online version](https://www.forums.cuisineathome.com/showthread.php?tid=60754&pid=60757#pid60757). We've removed the unnecessary sugar and starches from the recipe.)

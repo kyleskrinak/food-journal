@@ -3,7 +3,7 @@ layout: post
 title: Rachael Ray's Egg Foo Young
 date: 2021-04-07 03:50 -0400
 tags: 
-  - Eggs
+  - eggs
 image: 
   path:  /assets/images/low_carb_recipes/egg-foo-young.jpg
   thumbnail:  /assets/images/low_carb_recipes/egg-foo-young-thumb.jpg 

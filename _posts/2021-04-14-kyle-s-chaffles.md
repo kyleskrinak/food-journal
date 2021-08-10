@@ -30,15 +30,15 @@ That's it!
 
 | Amount Per Serving |            | % Daily Value* |
 |--------------------|------------|----------------|
-| Calories           | 206.7 kcal | 10 %           |
-| Total Fat          | 14.9 g     | 23 %           |
-| Saturated Fat      | 7.5 g      | 38 %           |
+| Calories           | 178.3 kcal | 9 %            |
+| Total Fat          | 12.8 g     | 20 %           |
+| Saturated Fat      | 6.8 g      | 34 %           |
 | Trans Fat          | 0 g        |                |
-| Cholesterol        | 179.8 mg   | 60 %           |
-| Sodium             | 956.7 mg   | 40 %           |
+| Cholesterol        | 174.5 mg   | 58 %           |
+| Sodium             | 882.2 mg   | 37 %           |
 | Total Carbohydrate | 0.4 g      | 0 %            |
 | Dietary Fiber      | 0 g        | 0 %            |
 | Sugars             | 0.4 g      |                |
-| Protein            | 17.9 g     | 36 %           |
+| Protein            | 15.1 g     | 30 %           ||
 
 Full breakdown information [here](https://cronometer.com/food.html?food=14979621&amount=1&measure=40823091&labelType=AMERICAN)

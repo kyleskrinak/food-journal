@@ -14,7 +14,7 @@ By "Screenack's," I mean very simple and easy to make. I have an 8" double-sided
 ## Ingredients
 * 8 eggs
 * 8 oz Parmesan cheese wedge
-* 3.5 package of pork rinds
+* 1.75 oz unprocessed pork rinds (The Aldi pork rinds package is 3.5 oz so half of that)
 * 1 T baking soda
 
 * Start warming the waffle iron
@@ -28,17 +28,17 @@ That's it!
 
 ## Nutrition Info
 
-| Amount Per Serving |            |
-|--------------------|------------|
-| Calories           | 616.7 kcal |
-| Total Fat          | 47.8 g     |
-| Saturated Fat      | 9.5 g      |
-| Trans Fat          | 0.7 g      |
-| Cholesterol        | 133.7 mg   |
-| Sodium             | 254.2 mg   |
-| Total Carbohydrate | 2.1 g      |
-| Dietary Fiber      | 0.5 g      |
-| Sugars             | 0.3 g      |
-| Protein            | 42.2 g     |
+| Amount Per Serving |            | % Daily Value* |
+|--------------------|------------|----------------|
+| Calories           | 206.7 kcal | 10 %           |
+| Total Fat          | 14.9 g     | 23 %           |
+| Saturated Fat      | 7.5 g      | 38 %           |
+| Trans Fat          | 0 g        |                |
+| Cholesterol        | 179.8 mg   | 60 %           |
+| Sodium             | 956.7 mg   | 40 %           |
+| Total Carbohydrate | 0.4 g      | 0 %            |
+| Dietary Fiber      | 0 g        | 0 %            |
+| Sugars             | 0.4 g      |                |
+| Protein            | 17.9 g     | 36 %           |
 
 Full breakdown information [here](https://cronometer.com/food.html?food=14979621&amount=1&measure=40823091&labelType=AMERICAN)

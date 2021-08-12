@@ -15,7 +15,7 @@ By "Screenack's," I mean very simple and easy to make. I have an 8" double-sided
 * 8 eggs
 * 8 oz Parmesan cheese wedge
 * 1.75 oz unprocessed pork rinds (The Aldi pork rinds package is 3.5 oz so half of that)
-* 1 T baking soda
+* 1 T baking powder
 
 * Start warming the waffle iron
 * Scramble the eggs, set aside
